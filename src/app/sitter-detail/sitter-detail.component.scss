@@ -1,0 +1,24 @@
+.sitter-detail {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 16px;
+}
+
+.sitter-info {
+  margin-bottom: 16px;
+}
+
+.sitter-photo {
+  margin-top: 16px;
+}
+
+.sitter-photo-img {
+  width: 100%;
+  max-width: 200px;
+  border-radius: 8px;
+}
+
+.back-link {
+  margin-top: 16px;
+}
